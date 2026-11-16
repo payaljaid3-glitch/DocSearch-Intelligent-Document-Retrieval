@@ -5,3 +5,5 @@ rank-bm25
 sentence-transformers
 nltk
 scikit-learn
+pymupdf
+python-docx
